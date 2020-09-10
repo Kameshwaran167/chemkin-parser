@@ -1,0 +1,9 @@
+Added on 06/27/2016 21:03 IST
+* Fixed versatility of other .dat files with UTF-8 encoding
+* Added Modules for data extraction, data conversion, operations and plotting.
+* Added ability to call function directly from CLI
+* Added subplots for quick comparison
+
+Added on 07/11/2016 02:16 IST
+* Units changed from J/mol-k to cal/mol-k
+* Universal Gas constant changed from 8.314 J/mol-k to 1.987 cal/mol-k
